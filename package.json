@@ -1,0 +1,12 @@
+{
+  "name": "gcp-dnsfunction",
+  "version": "1.0.0",
+  "description": "Collect data for a domain",
+  "main": "index.js",
+  "author": "michael@dwarfstar.co.nz",
+  "license": "ISC",
+  "dependencies": {
+    "dns": "^0.2.2",
+    "native-dns": "^0.7.0"
+  }
+}
